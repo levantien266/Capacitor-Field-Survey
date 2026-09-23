@@ -53,7 +53,7 @@ export class HeaderComponent {
             <img src="./apple-touch-icon.png" alt="Logo" class="vku-header-logo-img" />
             <div class="vku-brand-title">
               <h1>Khảo sát Thực địa</h1>
-              <p class="vku-brand-sub">Thanh tra Cơ sở Ngoại tuyến</p>
+              <p class="vku-brand-sub">Capacitor - Field Survey</p>
             </div>
           </div>
 

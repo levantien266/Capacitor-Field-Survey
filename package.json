@@ -1,9 +1,9 @@
 {
-  "name": "vku-field-survey",
+  "name": "capacitor-field-survey",
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "VKU Campus Facility Field Survey - Offline-First PWA & Capacitor Mobile App",
+  "description": "Capacitor - Field Survey - Offline-First PWA & Capacitor Mobile App",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

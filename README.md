@@ -1,14 +1,14 @@
-# 🏛️ VKU Field Survey - Hệ Thống Khảo Sát Thực Địa & Thu Thập Dữ Liệu Ngoại Tuyến
+# 🏛️ Capacitor - Field Survey - Hệ Thống Khảo Sát Thực Địa & Thu Thập Dữ Liệu Ngoại Tuyến
 
-> **Dự án nhỏ 1: Khảo sát thực địa VKU - Thu thập dữ liệu ngoại tuyến (PWA & Capacitor iOS)**  
+> **Dự án nhỏ 1: Capacitor - Field Survey - Thu thập dữ liệu ngoại tuyến (PWA & Capacitor iOS)**  
 > **Trường Đại học Công nghệ Thông tin và Truyền thông Việt - Hàn (VKU) - Đại học Đà Nẵng**  
-> 🌐 **Trải nghiệm trực tiếp (PWA iOS & Web)**: [https://quyens.github.io/VKU-Field-Survy/](https://quyens.github.io/VKU-Field-Survy/)
+> 🌐 **Trải nghiệm trực tiếp (PWA iOS & Web)**: [https://quyens.github.io/Capacitor-Field-Survey/](https://quyens.github.io/Capacitor-Field-Survey/)
 
 ---
 
 ## 🌟 Giới thiệu
 
-**VKU Field Survey** là ứng dụng di động lai (Hybrid Mobile App & PWA) phục vụ công tác thanh tra, kiểm kê và thu thập dữ liệu hiện trạng cơ sở vật chất khuôn viên Trường Đại học Công nghệ Thông tin và Truyền thông Việt - Hàn (VKU).
+**Capacitor - Field Survey** là ứng dụng di động lai (Hybrid Mobile App & PWA) phục vụ công tác thanh tra, kiểm kê và thu thập dữ liệu hiện trạng cơ sở vật chất khuôn viên Trường Đại học Công nghệ Thông tin và Truyền thông Việt - Hàn (VKU).
 
 Ứng dụng được thiết kế theo kiến trúc **100% Offline-First**, cho phép cán bộ kiểm tra và sinh viên khảo sát hoạt động liên tục trong điều kiện mất sóng di động hoặc không có Wi-Fi trong các tầng hầm, phòng thí nghiệm, sân bãi.
 
@@ -156,7 +156,7 @@ git commit -m "feat: complete VKU Field Survey PWA & Capacitor iOS offline-first
 git branch -M main
 
 # 4. Thêm địa chỉ kho lưu trữ từ xa
-git remote add origin https://github.com/Quyens/VKU-Field-Survy.git
+git remote add origin https://github.com/Quyens/Capacitor-Field-Survey.git
 
 # 5. Đẩy mã nguồn lên nhánh main
 git push -u origin main

@@ -1,7 +1,7 @@
 {
-  "name": "VKU Field Survey - Khảo sát Cơ sở Thực địa",
-  "short_name": "VKU Survey",
-  "description": "Ứng dụng thu thập dữ liệu kiểm tra cơ sở vật chất khuôn viên VKU ngoại tuyến 100% (Offline-First PWA & Capacitor)",
+  "name": "Capacitor - Field Survey",
+  "short_name": "Capacitor Survey",
+  "description": "Capacitor - Field Survey: Thu thập dữ liệu kiểm tra cơ sở vật chất khuôn viên VKU ngoại tuyến 100% (Offline-First PWA & Capacitor)",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
