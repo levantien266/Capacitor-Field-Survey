@@ -192,6 +192,6 @@ git push -u origin main
 
 ## 👨‍💻 Tác giả & Bản quyền
 
-- **Người thực hiện**: Hoàng Văn Quyến
+- **Người thực hiện**: Lê Văn Tiến
 - **Đơn vị**: Trường Đại học Công nghệ Thông tin và Truyền thông Việt - Hàn (VKU) - Đại học Đà Nẵng
 - **Mã nguồn**: Phát hành theo giấy phép [MIT License](LICENSE).
